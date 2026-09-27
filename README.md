@@ -63,6 +63,7 @@ Then choose the matching Font Set in Theme Configuration.
 **Original Theme**
 - [jovemlcxx/es-theme-xmb-fcamod](https://github.com/jovemlcxx/es-theme-xmb-fcamod) — base XMB theme for FCAMOD
 - Original assets, layout, and structure by jovemlcxx and the projects credited in the original README
+- Grokmod modifications: Grok (xAI)
 
 **Grokmod**
 - Dark mode textbox fix, extra color schemes, and multi-font support by Grok
